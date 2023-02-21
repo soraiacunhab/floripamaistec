@@ -1,0 +1,7 @@
+Crie um método para exibir o saldo atual da conta bancária.
+
+Descrição
+
+Crie um método dentro da classe ContaBancaria que o saldo atual da conta.
+
+Obs este exercício é uma continuação do exercício 5. Faça ele antes de começar este.

@@ -1,0 +1,10 @@
+Crie um método para possibilitar o saque de valores da conta bancária.
+
+Descrição:
+
+Crie um método dentro da classe ContaBancaria que permita fazer saque de valores nesta conta. Pontos importantes a serem observados:
+
+O valor de saque deve ser recebido como parâmetro no método;
+O valor a ser sacado deve ser maior do que 0;
+O valor de saque não pode ser maior que o saldo atual da conta;
+Obs: este exercício é uma continuação do exercício 3. Faça ele antes de começar este.
