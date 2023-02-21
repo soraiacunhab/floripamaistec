@@ -1,0 +1,15 @@
+C:\Users\cunha\OneDrive\Área de Trabalho\CURSOS FULL\floripamaistec\Modulo 01\[M1S02] Semana 02\[M1S02] Ex 3\[M1S02] Ex 3\[M1S02] Ex 3\obj\Debug\net7.0\M1S02.csproj.AssemblyReference.cache
+C:\Users\cunha\OneDrive\Área de Trabalho\CURSOS FULL\floripamaistec\Modulo 01\[M1S02] Semana 02\[M1S02] Ex 3\[M1S02] Ex 3\[M1S02] Ex 3\obj\Debug\net7.0\M1S02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cunha\OneDrive\Área de Trabalho\CURSOS FULL\floripamaistec\Modulo 01\[M1S02] Semana 02\[M1S02] Ex 3\[M1S02] Ex 3\[M1S02] Ex 3\obj\Debug\net7.0\M1S02.AssemblyInfoInputs.cache
+C:\Users\cunha\OneDrive\Área de Trabalho\CURSOS FULL\floripamaistec\Modulo 01\[M1S02] Semana 02\[M1S02] Ex 3\[M1S02] Ex 3\[M1S02] Ex 3\obj\Debug\net7.0\M1S02.AssemblyInfo.cs
+C:\Users\cunha\OneDrive\Área de Trabalho\CURSOS FULL\floripamaistec\Modulo 01\[M1S02] Semana 02\[M1S02] Ex 3\[M1S02] Ex 3\[M1S02] Ex 3\obj\Debug\net7.0\M1S02.csproj.CoreCompileInputs.cache
+C:\Users\cunha\OneDrive\Área de Trabalho\CURSOS FULL\floripamaistec\Modulo 01\[M1S02] Semana 02\[M1S02] Ex 3\[M1S02] Ex 3\[M1S02] Ex 3\bin\Debug\net7.0\M1S02.exe
+C:\Users\cunha\OneDrive\Área de Trabalho\CURSOS FULL\floripamaistec\Modulo 01\[M1S02] Semana 02\[M1S02] Ex 3\[M1S02] Ex 3\[M1S02] Ex 3\bin\Debug\net7.0\M1S02.deps.json
+C:\Users\cunha\OneDrive\Área de Trabalho\CURSOS FULL\floripamaistec\Modulo 01\[M1S02] Semana 02\[M1S02] Ex 3\[M1S02] Ex 3\[M1S02] Ex 3\bin\Debug\net7.0\M1S02.runtimeconfig.json
+C:\Users\cunha\OneDrive\Área de Trabalho\CURSOS FULL\floripamaistec\Modulo 01\[M1S02] Semana 02\[M1S02] Ex 3\[M1S02] Ex 3\[M1S02] Ex 3\bin\Debug\net7.0\M1S02.dll
+C:\Users\cunha\OneDrive\Área de Trabalho\CURSOS FULL\floripamaistec\Modulo 01\[M1S02] Semana 02\[M1S02] Ex 3\[M1S02] Ex 3\[M1S02] Ex 3\bin\Debug\net7.0\M1S02.pdb
+C:\Users\cunha\OneDrive\Área de Trabalho\CURSOS FULL\floripamaistec\Modulo 01\[M1S02] Semana 02\[M1S02] Ex 3\[M1S02] Ex 3\[M1S02] Ex 3\obj\Debug\net7.0\M1S02.dll
+C:\Users\cunha\OneDrive\Área de Trabalho\CURSOS FULL\floripamaistec\Modulo 01\[M1S02] Semana 02\[M1S02] Ex 3\[M1S02] Ex 3\[M1S02] Ex 3\obj\Debug\net7.0\refint\M1S02.dll
+C:\Users\cunha\OneDrive\Área de Trabalho\CURSOS FULL\floripamaistec\Modulo 01\[M1S02] Semana 02\[M1S02] Ex 3\[M1S02] Ex 3\[M1S02] Ex 3\obj\Debug\net7.0\M1S02.pdb
+C:\Users\cunha\OneDrive\Área de Trabalho\CURSOS FULL\floripamaistec\Modulo 01\[M1S02] Semana 02\[M1S02] Ex 3\[M1S02] Ex 3\[M1S02] Ex 3\obj\Debug\net7.0\M1S02.genruntimeconfig.cache
+C:\Users\cunha\OneDrive\Área de Trabalho\CURSOS FULL\floripamaistec\Modulo 01\[M1S02] Semana 02\[M1S02] Ex 3\[M1S02] Ex 3\[M1S02] Ex 3\obj\Debug\net7.0\ref\M1S02.dll

@@ -1,0 +1,5 @@
+C:\Users\cunha\OneDrive\Área de Trabalho\CURSOS FULL\floripamaistec\Modulo 01\[M1S02] Semana 02\[M1S02] Ex 3\[M1S02] Ex 3\[M1S02] Ex 3\obj\Debug\net7.0\[M1S02] Ex 3.csproj.AssemblyReference.cache
+C:\Users\cunha\OneDrive\Área de Trabalho\CURSOS FULL\floripamaistec\Modulo 01\[M1S02] Semana 02\[M1S02] Ex 3\[M1S02] Ex 3\[M1S02] Ex 3\obj\Debug\net7.0\[M1S02] Ex 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cunha\OneDrive\Área de Trabalho\CURSOS FULL\floripamaistec\Modulo 01\[M1S02] Semana 02\[M1S02] Ex 3\[M1S02] Ex 3\[M1S02] Ex 3\obj\Debug\net7.0\[M1S02] Ex 3.AssemblyInfoInputs.cache
+C:\Users\cunha\OneDrive\Área de Trabalho\CURSOS FULL\floripamaistec\Modulo 01\[M1S02] Semana 02\[M1S02] Ex 3\[M1S02] Ex 3\[M1S02] Ex 3\obj\Debug\net7.0\[M1S02] Ex 3.AssemblyInfo.cs
+C:\Users\cunha\OneDrive\Área de Trabalho\CURSOS FULL\floripamaistec\Modulo 01\[M1S02] Semana 02\[M1S02] Ex 3\[M1S02] Ex 3\[M1S02] Ex 3\obj\Debug\net7.0\[M1S02] Ex 3.csproj.CoreCompileInputs.cache
