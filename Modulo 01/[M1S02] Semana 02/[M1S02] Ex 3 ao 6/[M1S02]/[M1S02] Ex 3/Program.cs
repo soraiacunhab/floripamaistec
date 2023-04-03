@@ -8,16 +8,16 @@ using Exercicios03ao06.Classes.Enum;
 
 ContaBancaria conta = new ContaBancaria();
 
-conta.numero = 1542;
-conta.agencia = 1234;
-conta.nomeDoTitular = "Bruno Costa";
+conta.numero = 1234;
+conta.agencia = 4321;
+conta.nomeDoTitular = "Soraia Cunha";
 conta.tipoConta = TipoContaEnum.POUPANCA;
 
 // testando metodo depositar
-conta.Depositar(200);
-
 // testando metodo sacar 
-conta.Saque(50);
-
 // testando método exibir saldo
+conta.Depositar(100);
+
+conta.Saque(40);
+
 conta.ExibirSaldo();
