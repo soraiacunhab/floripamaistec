@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "[M1S04] Ex 1 - Criação de Classe Cliente", "[M1S04] Ex 1 - Criação de Classe Cliente\[M1S04] Ex 1 - Criação de Classe Cliente.csproj", "{769CE50E-3264-404D-B14F-6B96FBDCBB28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{769CE50E-3264-404D-B14F-6B96FBDCBB28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{769CE50E-3264-404D-B14F-6B96FBDCBB28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{769CE50E-3264-404D-B14F-6B96FBDCBB28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{769CE50E-3264-404D-B14F-6B96FBDCBB28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED3E02DD-4EB4-4221-8911-0CDDE14E131E}
+	EndGlobalSection
+EndGlobal

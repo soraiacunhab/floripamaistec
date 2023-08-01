@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "nT/l7C/zQAMOwvAzV3Rl5wM0pawP8JTlLo9Rq9wW0itWBjkeOGXG8/0R7lC38MPQzZCnEK7qj1y32SpmGcSwSg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cunha\\OneDrive\\Área de Trabalho\\CURSOS FULL\\floripamaistec\\Modulo 01\\Semana 01\\numeros primos\\Exercícios Semana 01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cunha\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\cunha\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\cunha\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\cunha\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.14\\microsoft.netcore.app.host.win-x64.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
