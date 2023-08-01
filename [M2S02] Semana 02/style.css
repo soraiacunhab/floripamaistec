@@ -1,0 +1,75 @@
+#viddescricao {
+    display: flex;
+    flex-direction: column;
+    gap:5px;
+    padding-top: 5px;
+}
+
+.curso {
+    text-decoration: underline;
+}
+
+#duvidas {
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    padding: 20px;
+    background-color: antiquewhite;
+    border-radius: 10px;
+}
+
+#form {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(251, 228, 197);
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+    margin: 5px;
+    border-radius: 10px;
+    width: 50vw;
+}
+
+#recuo {
+    margin-left: -2px;
+}
+
+#nome, #email {
+    margin-left: 5px;
+}
+
+#telefone {
+    margin-right: 30px;
+
+}
+
+p > label, input {
+    margin-right: 10px;
+}
+
+#pduvida {
+    margin-right: 50px;
+}
+
+button {
+    background: antiquewhite;
+    color: rgb(131, 120, 53);
+    border: 2px solid;
+    border-radius: 3px;
+    padding: 0.5em 1em;
+    font-size: 1em;
+    transition: color 0.25s, border-color 0.25s, box-shadow 0.25s, transform 0.25s;
+}
+
+button:hover {
+    background-color: rgb(251, 228, 197);
+    color: #ffa260;
+    border-color: #ffa260;
+    box-shadow: 0 0.5em 0.5em -0.4em rgb(131, 120, 53);
+    transform: translateY(-0.25em);
+    cursor: pointer;
+}
