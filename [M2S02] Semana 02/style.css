@@ -1,3 +1,375 @@
+body {
+    background-color:rgb(176, 222, 255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+    margin: 0 auto;
+    padding: 0;
+    background-color: rgb(35, 190, 247);
+    
+}
+
+#header {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    font-size: large;
+    padding: 0px;
+    margin-left: 10px;
+}
+
+#logo {
+    background-color: rgb(10, 170, 228);
+    max-width: 10%;
+    max-height: 10%;
+    height: auto;
+    display: block; 
+    margin: 5 auto;
+}
+
+nav {
+    display: flex;
+    width: 100vw;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    padding-top: 20px;
+    background-color: rgb(10, 156, 235);
+}
+
+nav a {
+    margin: 0px 8px;
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.648);
+    padding: 5px; 
+    border-radius: 5px;
+    border-color: rgb(101, 116, 166);
+    font-size: large;
+    font-weight: bold;
+    
+}
+
+nav a:hover {
+    color: rgb(53, 2, 164);
+    background-color: rgb(19, 79, 246);
+    padding: 10px;
+    border-radius: 10px;
+}
+
+footer {
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+    margin: 0 auto;
+    padding: 0;
+}
+
+#footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    padding-bottom: 20px;
+}
+
+#logofooter {
+    background-color: rgb(11, 4, 207);
+    max-width: 10%;
+    max-height: 5%;
+    height: auto;
+    display: flex;
+    margin: 0 auto;
+}
+
+#sobre {
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    background-color: rgb(164, 214, 246);
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+.instalacoes {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    margin-right: 10px;
+    max-width: 50%;
+    background-color: rgb(164, 214, 246);
+    margin-bottom: 10px;
+    padding-left: 10px;
+    border-radius: 10px;
+}
+
+p {
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+    font-size: medium;
+    font-weight: bold;
+    padding-left: 10px;
+    color: rgb(0, 79, 153);
+    line-height: 2rem;
+}
+
+.instalacoes-image {
+    max-width: 35vw;
+    height: auto;
+    border-radius: 15px;
+}
+
+.quantidades {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    max-width: 50vw;
+    margin-left: 0;
+    padding: 0px 20px 20px 20px;
+    background-color: rgb(164, 214, 246);
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+span {
+    font-style: italic;
+    text-align: center;
+    font-weight: bolder;
+    font-size: larger;
+    color: rgb(6, 52, 169);
+}
+
+.quantidades img {
+    display: flex;
+    flex-direction: column;
+    margin-left: 0px;
+    padding-left: 0px;
+}
+
+.quantidades-image {
+    max-width: 15vw;
+    height: auto;
+    padding-top:20px;
+    padding-right: 24px;
+    border-radius: 20px;
+}
+
+#deCima {
+    padding-right: 62px;
+}
+
+#deBaixo {
+    padding-left: 20px;
+}
+
+.image {
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+#oportunidades {
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    margin: 20px;
+    padding: 20px;
+    background-color: rgb(176, 222, 255);
+    border-radius: 10px;
+}
+
+.oportunidades {
+    background-color: rgb(164, 214, 246);
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+.tituloOportunidade {
+
+    font-size: larger;
+    font-weight: bolder;
+}
+
+.valoresOportunidade {
+    background-color: rgb(164, 214, 246);
+    border: 3px solid rgb(21, 21, 110);
+    border-radius: 10px;
+    padding: 5px;
+}
+
+#metodologia {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 20px;
+    padding: 20px;
+    background-color: rgb(228, 242, 255);
+    border-radius: 10px;
+}
+
+#bulletpoints {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(228, 242, 255);
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+#bulletpoints > span {
+    font-size: x-large;
+    font-weight: bolder;
+    color: rgb(25, 25, 136);
+    text-align: center; 
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: center; 
+}
+
+li {
+    color: rgb(25, 25, 136);
+    text-align: center; 
+}
+
+li > h4 {
+    font-size: larger;
+    font-weight: bold;
+    color: rgb(25, 25, 136);
+  
+}
+
+
+#ementa {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    margin: 20px;
+    padding: 0; /* Removido o espaçamento */
+    background-color: rgb(156, 198, 240);
+    border-radius: 10px;
+}
+
+#tabela {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(255, 255, 255);
+    justify-content: center;
+    align-items: center;
+    padding: 0; /* Removido o espaçamento */
+    margin: 20px;
+    border-radius: 10px;
+}
+
+tbody > span {
+    padding-bottom: 0; /* Removido o espaçamento entre as linhas da tabela */
+}
+
+th, td {
+    color: rgb(19, 6, 76);
+    border: 1px solid rgb(9, 60, 111);
+    padding: 5px; /* Reduzido o espaçamento interno das células */
+    text-align: center;
+}
+
+#tituloEmenta {
+    padding-bottom: 0; /* Removido o espaçamento */
+}
+
+
+#projetos {
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    padding: 20px;
+    background-color: rgb(176, 222, 255);
+    border-radius: 10px;
+}
+
+.imgprojetos {
+    display: flex;
+    background-color: rgb(176, 222, 255);
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    width: 100vw;
+}
+
+.imgprojetos > img {
+    width: 15%;
+    border-radius: 20px;
+    
+}
+
+h3 {
+    color: rgb(4, 31, 93);
+    font-size: large;
+}
+
+#depoimentos {
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    padding: 20px;
+    background-color: rgb(176, 222, 255);
+    border-radius: 10px;
+}
+
+.viddepoimentos {
+
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(95, 164, 242);
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+    margin: 5px;
+    border-radius: 10px;
+    width: 30vw;
+
+}
+
+iframe {
+    width: 270px;
+    height: 180px;
+}
+
 #viddescricao {
     display: flex;
     flex-direction: column;
@@ -17,14 +389,14 @@
     align-items: center;
     margin: 20px;
     padding: 20px;
-    background-color: antiquewhite;
+    background-color: rgb(176, 222, 255);
     border-radius: 10px;
 }
 
 #form {
     display: flex;
     flex-direction: column;
-    background-color: rgb(251, 228, 197);
+    background-color: rgb(176, 222, 255);
     justify-content: center;
     align-items: center;
     text-align: center;
@@ -44,7 +416,7 @@
 
 #telefone {
     margin-right: 30px;
-
+    
 }
 
 p > label, input {
@@ -56,20 +428,230 @@ p > label, input {
 }
 
 button {
-    background: antiquewhite;
-    color: rgb(131, 120, 53);
-    border: 2px solid;
+    background: rgb(8, 137, 81);
+    color: rgb(1, 59, 48);
+    border: 3px solid;
     border-radius: 3px;
-    padding: 0.5em 1em;
     font-size: 1em;
-    transition: color 0.25s, border-color 0.25s, box-shadow 0.25s, transform 0.25s;
 }
 
-button:hover {
-    background-color: rgb(251, 228, 197);
-    color: #ffa260;
-    border-color: #ffa260;
-    box-shadow: 0 0.5em 0.5em -0.4em rgb(131, 120, 53);
-    transform: translateY(-0.25em);
-    cursor: pointer;
+
+
+/* Mobile */
+@media screen and (max-width: 767px) {
+
+   #header {
+        display: flex;
+        flex-direction: column;
+        width: 100vw;
+    }
+
+    nav > a {
+        color: rgba(0, 0, 0, 0.648);
+        align-items: center;
+        text-align: center;
+        font-size: smaller;   
+    }
+
+    #logo{
+        display: none;
+    }
+
+    footer {
+        display: flex;
+    }
+    #logofooter{
+        display: none;
+    }
+
+    #sobre {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .instalacoes, .quantidades {
+        flex-direction: column;
+        max-width: 100%;
+        margin: 10px;
+        padding: 10px;
+    }
+
+    .instalacoes-image {
+        max-width: 45%;
+        border-radius: 10px;
+    }
+
+    .quantidades {
+        padding: 10px;
+    }
+
+    .quantidades span {
+        margin-top: 10px;
+    }
+
+    #oportunidades {
+        display: flex;
+        flex-direction: column;
+    }
+
+    #bulletpoints ul {
+        flex-direction: column;
+    }
+
+    #bulletpoints li {
+        margin-bottom: 20px;
+    }
+
+    #tabela {
+        overflow-x: scroll;
+    }
+
+    #tabela table {
+        width: 100%;
+    }
+
+    .imgprojetos {
+        flex-direction: column;
+        margin-bottom: 20px;
+    }
+
+    #depoimentos {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .viddepoimentos {
+        flex-direction: column;
+        align-items: center;
+        margin-bottom: 20px;
+    }
+
+    iframe {
+        width: 200px;
+        height: 200px;
+    }
+
+    #viddescricao {
+        margin-top: 10px;
+    }
+
+    #form {
+        padding: 40px;
+    }
+
+    #labelduvida {
+        padding-left: 3px;
+    }
+
+    #textoduvida {
+        width: 40vw;
+    }
+
+}
+
+/* Tablet */
+@media screen and (max-width: 1023px) {
+
+    header > nav {
+        display: flex;
+        flex-direction: column;
+    }
+    #logo {
+        max-width: 10%;
+        max-height: 5%;
+    }
+
+    #logofooter{
+        display: none;
+    }
+
+    nav {
+        display: flex;
+        padding-top: 15px;
+    }
+
+    nav > a {
+        align-items: center;
+        text-align: center;
+        justify-content: center;
+        margin: 0px;
+        padding-bottom: 10px;
+        font-size: small;
+    }
+
+    #footer {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        text-align: center;
+        justify-content: center;
+    }
+
+    .instalacoes, .quantidades {
+        flex-direction: column;
+        max-width: 100%;
+        margin: 10px;
+        padding: 10px;
+    }
+
+    .instalacoes-image {
+        max-width: 50%;
+        border-radius: 10px;
+    }
+
+    .quantidades {
+        padding: 15px;
+    }
+
+    .quantidades span {
+        margin-top: 10px;
+    }
+
+    #bulletpoints ul {
+        flex-direction: row;
+    }
+
+    #bulletpoints li {
+        margin-bottom: 0;
+        margin-right: 20px;
+    }
+
+    .valoresOportunidade {
+        font-size: small;
+    }
+
+    #tabela {
+        overflow-x: scroll;
+    }
+
+    #tabela table {
+        width: 100%;
+    }
+
+    .imgprojetos {
+        flex-direction: row;
+        margin-bottom: 20px;
+    }
+
+    #depoimentos {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .viddepoimentos {
+        flex-direction: column;
+        align-items: center;
+        margin-bottom: 20px;
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+
+    #viddescricao {
+        margin-top: 0;
+        margin-left: 10px;
+    }
+
+    #form {
+        padding: 40px;
+    }
 }
